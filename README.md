@@ -1,4 +1,4 @@
-## Getting Started
+## Inventory (Pantry) Tracker
 View the tracker [here](https://inventory-tracker-ruby-nu.vercel.app/).
 
 Features:
